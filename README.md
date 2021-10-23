@@ -1,2 +1,2 @@
-# basic-nginx-ssl
-Basic nginx config for SSL
+# basic-nginx-proxy-ssl
+Basic nginx reverse proxy config with SSL.
